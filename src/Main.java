@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		//Creating the window with all its awesome snaky features
+		// TEST
 		Window f1= new Window();
 		
 		//Setting up the window settings
